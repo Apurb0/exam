@@ -1,0 +1,74 @@
+element.style {
+}
+
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+	width:1140px;
+	margin: 0 auto;
+}
+
+body{
+	background-image: url("https://ubuntuportal.com/wp-content/uploads/2014/03/Foggy-Forest-Jake-Stewart.jpg"); 
+	background-size: cover;
+}
+
+
+
+
+div {
+    display: block;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+html {
+    color: -internal-root-color;
+}
+
+.logo{
+
+	/*width: 100%;
+	margin: 100px;*/
+
+}
+
+
+.title{
+
+	margin:10%;
+}
+
+.text{
+	margin-bottom : 10%;
+}
+
+
+.btn{
+	margin:10px 20px;
+	color: blue;
+}
+
+.btn-2{
+	margin:10px 20px;
+	color: blue;
+}
+
+.heading{
+	width:100%;
+	margin-bottom : 2%;
+
+}
+
+
+
+.registration{
+	width:100%;
+	margin:-10% 40%;
+
+}
